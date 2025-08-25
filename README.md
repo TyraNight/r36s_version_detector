@@ -1,4 +1,4 @@
-# r36s_version_detector
+# R36S Version Detector
 
 Small, plug-and-play script to identify your **R36S** setup:
 - Detects whether you’re running **ArkOS (AEUX)** or **EmuELEC**
