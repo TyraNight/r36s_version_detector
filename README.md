@@ -1,0 +1,1 @@
+A small script to identify your console directly—ArkOS or EmuELEC? Panel 1/2/3/4/5… Copy it into Easyroms, then in Options use the 351files app to copy the script to opt/system; otherwise it won’t be visible on the original microSD. On a reinstalled console, copy it to Easyroms/tools only and run it. 
